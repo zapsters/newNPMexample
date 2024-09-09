@@ -1,0 +1,16 @@
+{
+  "name": "newnpmexample",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "liveserver": "live-server",
+    "compile": "sass scss/styles.scss css/styles.css -w --no-source-map"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "sass": "^1.78.0"
+  }
+}
