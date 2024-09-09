@@ -21,5 +21,19 @@ p {
 }
 
 /* End of Reset */
-
-/*# sourceMappingURL=styles.css.map */
+nav {
+  height: 50px;
+  background-color: #000;
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  font-family: monospace;
+  font-size: 18px;
+}
+nav a {
+  text-decoration: none;
+  color: #fff;
+}
+nav a:hover {
+  text-decoration: underline;
+}
